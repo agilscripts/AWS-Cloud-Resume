@@ -49,7 +49,7 @@ Follow these steps to deploy the frontend code to an S3 bucket and enable automa
 1. **Create S3 Bucket for Website**:
    ```bash
    aws s3 mb s3://your-unique-s3-bucket-name
-2. **Upload Website Files**:
+2. **Upload Website Files**
 
 
 ## Continuous Integration and Deployment (CI/CD)
